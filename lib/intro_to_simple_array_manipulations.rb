@@ -29,7 +29,7 @@ array.concat (array1)
 end
 
 def using_insert(array, item)
-new_array.unshift (new_string) 
+array.insert
 end
 
 def using_uniq(array)
