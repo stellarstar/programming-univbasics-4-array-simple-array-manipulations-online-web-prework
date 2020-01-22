@@ -33,17 +33,17 @@ array.insert (array)
 end
 
 def using_uniq(array)
-new_array.uniq (new_string)
+array.uniq (new_string)
 end
 
 def using_flatten(array)
-new_array.unshift (new_string) 
+array.flatten (new_string) 
 end
 
 def using_delete(array, string)
-new_array.unshift (new_string) 
+array.delete (new_string) 
 end
 
 def using_delete_at(array, num)
-new_array.unshift (new_string)
+array.delete@ (new_string)
 end
