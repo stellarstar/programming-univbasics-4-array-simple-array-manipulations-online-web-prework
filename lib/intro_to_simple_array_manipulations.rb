@@ -37,7 +37,7 @@ array.uniq
 end
 
 def using_flatten(array)
-array.flatten (new_string) 
+array.flatten 
 end
 
 def using_delete(array, string)
