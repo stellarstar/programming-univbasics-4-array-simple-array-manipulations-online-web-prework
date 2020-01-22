@@ -29,11 +29,11 @@ array.concat (array1)
 end
 
 def using_insert(array, item)
-array.insert (item)
+array.insert (4, item)
 end
 
 def using_uniq(array)
-array.uniq (4,new_string)
+array.uniq (new_string)
 end
 
 def using_flatten(array)
