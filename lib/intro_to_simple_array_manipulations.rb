@@ -33,7 +33,7 @@ array.insert (item)
 end
 
 def using_uniq(array)
-array.uniq (new_string)
+array.uniq (4,new_string)
 end
 
 def using_flatten(array)
