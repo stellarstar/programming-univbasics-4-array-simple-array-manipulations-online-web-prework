@@ -25,7 +25,7 @@ array.shift (2)
 end
 
 def using_concat(array, array1)
-array1.concat 
+array1.concat (2)
 end
 
 def using_insert(array, item)
